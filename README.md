@@ -1,1 +1,2 @@
-# jjtech-ovid-env1
+# jjtech-ovid-env
+EC2 CloudFormation
